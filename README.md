@@ -16,5 +16,6 @@ An end-to-end streaming data and machine learning pipeline designed to ingest co
 - Apache Kafka
 - Pandas
 - SQL
+- HTML & CSS
 
 
