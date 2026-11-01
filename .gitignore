@@ -7,4 +7,5 @@ __pycache__/
 bank.db
 
 # 3. Ignore the massive 10,000 row CSV file used for training
-historical_transactions.csv
+historical_transactions.csv*.zip 
+*.zip 
